@@ -156,7 +156,7 @@ public class Brick {
   
   public void setMult(int newMult) {
     // mult setter -> all calcs made using mult
-    // are done durring render
+    // are done during render
     mult = newMult;
   }
   
